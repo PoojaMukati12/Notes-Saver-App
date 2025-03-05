@@ -1,4 +1,4 @@
-# Notes-Save-Application📖
+# Notes-Saver-Application📖
 
 A Web-based Notes Saver Application that allows users to write, save, and manage their notes directly from a web browser.
 
